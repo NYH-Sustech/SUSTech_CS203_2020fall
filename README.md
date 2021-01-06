@@ -2,9 +2,11 @@
 
 > 2020 fall
 >
-> 关于SUSTech DSAA的课程学习有问题的欢迎交流
+> 关于SUSTech DSAA的课程学习有问题的欢迎交流~
 >
 > email：11911839@mail.sustech.edu.cn
+>
+> 侵删致歉
 
 ### 说明
 
