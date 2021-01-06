@@ -2,15 +2,13 @@
 
 > 2020 fall
 >
-> 关于SUSTech DSAA的课程学习有问题的欢迎交流~
+> 关于SUSTech DSAA的课程学习和Lecture的部分有问题的欢迎交流~
 >
 > email：11911839@mail.sustech.edu.cn
->
-> 侵删致歉
 
 ### 说明
 
-本仓库包含了四个部分
+本仓库包含了三个部分
 
 #### Exam
 
@@ -26,9 +24,6 @@
 
 **仅供参考，切勿直接照搬（毕竟还有很多写的很垃圾...）**
 
-#### Lecture
-
-包括了2020fall的所有Lecture ppt
 
 #### Note
 
